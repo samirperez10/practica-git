@@ -3,3 +3,5 @@ samir
 steven 
 fabian 
 matias 
+perez 
+cruz
